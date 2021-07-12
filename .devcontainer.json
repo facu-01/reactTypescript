@@ -1,0 +1,15 @@
+{
+    "name": "React typescript lab",
+    "image": "node",
+    "extensions": [
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "jpoissonnier.vscode-styled-components"
+    ],
+    "settings": {
+        "[typescriptreact]": {
+            "editor.defaultFormatter": "esbenp.prettier-vscode"
+        },
+        "prettier.singleQuote": true
+    }
+}
